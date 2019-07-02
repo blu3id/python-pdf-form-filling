@@ -1,0 +1,13 @@
+# Cache Files
+*.py[cod]
+__pycache__
+
+# Editor Files
+.vscode
+
+# Environment files
+.env
+env
+
+# Log Files
+pip-log.txt

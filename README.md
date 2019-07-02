@@ -10,7 +10,7 @@ Ensure `pipenv` is installed see https://docs.pipenv.org/ for how to setup on yo
 
 To get started and set-up virtualenv and install dependencies initially:
 ```bash
-git clone https://github.com/blu3id/python-pdf-form-filling/
+git clone https://github.com/blu3id/python-pdf-form-filling.git
 cd python-pdf-form-filling
 pipenv install --dev
 ```
